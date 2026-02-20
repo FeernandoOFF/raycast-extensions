@@ -2,6 +2,8 @@
 
 ## [Bugfixes] - {PR_MERGE_DATE}
 
+- Fixed error when accessing BrowserExtension on unsupported environments
+
 ## [Fix & Improvements] - 2026-02-19
 
 - Fixed RangeError for large vaults by increasing buffer size to 50MB
