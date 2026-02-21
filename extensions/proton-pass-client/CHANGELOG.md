@@ -1,6 +1,6 @@
 # Proton Pass Client Changelog
 
-## [Bugfixes] - {PR_MERGE_DATE}
+## [Bugfixes] - 2026-02-21
 
 - Fixed error when accessing BrowserExtension on unsupported environments
 
